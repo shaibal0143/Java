@@ -8,6 +8,6 @@ public class predessor {
         int n2 = n - 1;
         System.out.println("Predessor of the number is::" + n2);
         System.out.println("Successor of the number is::" + n1);
-        scan.close();
+         scan.close();
     }
 }
