@@ -13,5 +13,5 @@ System.out.println("Palindrome Number...");
 }else{
 	System.out.println("Not a Palindrome Number...");
 	}
-	}
+     }
 }
