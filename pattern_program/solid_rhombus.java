@@ -10,7 +10,7 @@ public class solid_rhombus {
         for (int i = 1; i <= r; i++) {
             for (int j = 1; j <= r - i + 1; j++) {
                 System.out.print(" ");
-            }
+             }
             for (int j = 1; j <= r; j++) {
                 System.out.print("*");
             }
