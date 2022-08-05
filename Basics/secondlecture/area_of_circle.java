@@ -3,7 +3,7 @@ package secondlecture.java;
 import java.util.*;
 
 public class area_of_circle {
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
 
         float area;
         float pi = (float) 3.14;
