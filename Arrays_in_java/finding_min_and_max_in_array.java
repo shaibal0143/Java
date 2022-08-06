@@ -2,7 +2,7 @@
 //FInding mininmum and maximunm value in an array... 
 import java.util.*;
 
-public class finding_min_and_max_in_array {
+public  class finding_min_and_max_in_array {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter the size of the array::");
