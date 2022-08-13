@@ -1,4 +1,4 @@
-public class jagged_array {
+public class  jagged_array {
     public static void main(String[] args) {
         int r = 5;
         int count = 1;
