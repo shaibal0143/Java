@@ -8,7 +8,7 @@ public class jagged_array {
 
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[i].length; j++) {
-                 arr[i][j] = count++;
+                arr[i][j] = count++;
             }
         }
         for (int i = 0; i < arr.length; i++) {
