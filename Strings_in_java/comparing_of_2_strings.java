@@ -6,7 +6,7 @@ public class comparing_of_2_strings {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter your 1st string::");
-        String name1 = scan.nextLine();
+        String name1 =  scan.nextLine();
         System.out.print("Enter your 2nd String::");
         String name2 = scan.nextLine();
 
