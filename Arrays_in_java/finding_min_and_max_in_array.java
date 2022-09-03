@@ -5,7 +5,7 @@ import java.util.*;
 public  class finding_min_and_max_in_array {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.print("Enter the size of the array::");
+         System.out.print("Enter the size of the array::");
         int size = scan.nextInt();
         int numbers[] = new int[size];
         for (int i = 0; i < size; i++) {
