@@ -1,6 +1,6 @@
 
 //comparing 2 strings
-import java.util.*;
+ import java.util.*;
 
  public class comparing_of_2_strings {
     public static void main(String[] args) {
