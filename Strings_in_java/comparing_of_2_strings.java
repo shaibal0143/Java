@@ -2,7 +2,7 @@
 //comparing 2 strings
 import java.util.*;
 
-public class comparing_of_2_strings {
+ public class comparing_of_2_strings {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter your 1st string::");
