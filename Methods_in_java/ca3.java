@@ -5,7 +5,7 @@ public class ca3 {
         return (a * a);
     }
 
-    static int perimeter_sq(int a) {
+     static int perimeter_sq(int a) {
         return 4 * a;
     }
 
