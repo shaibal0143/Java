@@ -1,5 +1,5 @@
 package javaProgram.oops;
-
+ 
 class Employee1 {
     int salary;
     String name;
