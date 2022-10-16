@@ -34,7 +34,7 @@ class Derived extends Base {
     public void sety(int y) {
         this.y = y;
     }
-
+ 
 }
 
 public class inheritance {
