@@ -5,7 +5,7 @@ class Employee1 {
     String name;
 
     public int getsalary() {
-        return salary;
+        return salary; 
     }
 
     public String getname() {
