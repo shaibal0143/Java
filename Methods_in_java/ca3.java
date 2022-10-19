@@ -24,7 +24,7 @@ public class ca3 {
         switch (n) {
             case 1:
                 System.out.println("Enter a no:");
-                int a = scan.nextInt();
+                int a = scan.nextInt(); 
                 System.out.println(area_sq(a));
                 System.out.print(perimeter_sq(a));
                 break;
