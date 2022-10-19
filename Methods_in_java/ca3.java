@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ca3 {
-    static int area_sq(int a) {
+    static int area_sq(int a) { 
         return (a * a);
     }
 
