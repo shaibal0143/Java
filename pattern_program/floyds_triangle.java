@@ -10,7 +10,7 @@ public class floyds_triangle {
         int r = scan.nextInt();
         for (int i = 1; i <= r; i++) {
             for (int j = 1; j <= i; j++) {
-                System.out.print(num + " ");
+                System.out.print(num + " "); 
                 num++;
 
             }
