@@ -14,7 +14,7 @@ public class floyds_triangle {
                 num++;
 
             }
-            System.out.println();
+            System.out.println(); 
         }
         scan.close();
     }
