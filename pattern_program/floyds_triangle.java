@@ -13,7 +13,7 @@ public class floyds_triangle {
                 System.out.print(num + " "); 
                 num++;
 
-            }
+            } 
             System.out.println(); 
         }
         scan.close();
