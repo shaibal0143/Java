@@ -7,7 +7,7 @@ public class factorial_of_a_no {
         if (n < 0) {
             System.out.print("Invalid Input");
             return; 
-        }
+        } 
         int fact = 1;
         for (int i = 1; i <= n; i++) {
             fact = fact * i;
