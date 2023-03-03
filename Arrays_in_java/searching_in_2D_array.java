@@ -5,7 +5,7 @@ import java.util.*;
 public class searching_in_2D_array {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.print("Enetr the no. of rows::");
+        System.out.print("Enetr the no. of rows::");1
         int row = scan.nextInt();
         System.out.print("Enter the no. of columns::");
         int col = scan.nextInt();
