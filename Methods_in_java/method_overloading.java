@@ -7,7 +7,7 @@ public class method_overloading {
         System.out.println("Program no:" + a);
     }
 
-    void foo(int a, int b) {
+    void foo(int a, int b) { 
         System.out.println("program no:" + a + " and " + b);
 
     }
